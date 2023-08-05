@@ -1,0 +1,2 @@
+from entitycrawler.crawler.service import MultiCrawlerService
+from entitycrawler.entities.service import UpdateEntitiesService

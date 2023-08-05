@@ -1,0 +1,15 @@
+newspaper #==0.0.6
+tornado<4
+beautifulsoup4==4.4.0
+requests<3
+pymongo
+numpy==1.8.2  #do not update - can't build on testing servers (too long)
+nltk<3.1
+feedparser<6
+boilerpipy<0.3
+python_dateutil<3
+musicbrainzngs<1
+pytz
+
+langdetect<2
+ftfy >=4,<5
